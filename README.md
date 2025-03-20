@@ -8,6 +8,14 @@
         ╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝
                                 
 
+Project Resources
+Welcome to our project! Here, we utilize various platforms to enhance development and user experience:
+
+GitHub: Code storage, version control, and issue tracking.
+Discourse: User feedback board, Q&A forum, and discussion on improvements.
+ReadTheDocs: Automated deployment of user manuals and versioned documentation.
+Stay connected and contribute to our project! 🚀
+
 
 
 
